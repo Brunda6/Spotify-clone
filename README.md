@@ -17,4 +17,15 @@ A simplified web application that mimics the user interface of Spotify, focusing
 ## Screenshot
 ![Spotify-clone-1](https://github.com/user-attachments/assets/aa671425-9bd1-41e8-9001-cbf4c4510195)
 
+## Setup Instructions
+- Clone the Repository:
+Run: git clone (https://github.com/Brunda6/Spotify-clone/edit/main/README.md)
+- Navigate to Project Folder:
+Run: cd spotify-clone
+- Open the Project:
+Open index.html in your browser (double-click or use terminal).
+- Optional - Use Live Server:
+If using VS Code, install the Live Server extension.
+Right-click index.html and choose "Open with Live Server" for live reload.
+
 
