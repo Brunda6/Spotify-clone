@@ -14,4 +14,7 @@ A simplified web application that mimics the user interface of Spotify, focusing
 - `index.html`: The main structure of the web app.
 - `style.css`: Custom styles for the web app, including circular artist images.
 
+## Screanshot
+![Spotify-clone-1](https://github.com/user-attachments/assets/aa671425-9bd1-41e8-9001-cbf4c4510195)
+
 
