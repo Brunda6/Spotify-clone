@@ -15,7 +15,7 @@ A simplified web application that mimics the user interface of Spotify, focusing
 - `style.css`: Custom styles for the web app, including circular artist images.
 
 ## Screenshot
-![Spotify-clone-1](https://github.com/user-attachments/assets/aa671425-9bd1-41e8-9001-cbf4c4510195)
+[![Spotify-clone-1](https://github.com/user-attachments/assets/aa671425-9bd1-41e8-9001-cbf4c4510195)](https://github.com/Brunda6/Spotify-clone/blob/main/index.html)
 
 ## Setup Instructions
 - Clone the Repository:
